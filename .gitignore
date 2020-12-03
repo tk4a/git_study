@@ -1,4 +1,4 @@
 # Project exclude paths
 /.gradle/
 
-Person.kt
+git rm --cached Person.kt
