@@ -1,4 +1,6 @@
 package domain
 
-class Animalq {
+class Animal {
+    val name = ""
+    val age = 0
 }
